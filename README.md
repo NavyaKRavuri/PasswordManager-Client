@@ -3,6 +3,7 @@
 ## Project setup
 ```
 npm install
+You can now access the application at http://localhost:8080
 ```
 
 ### Compiles and hot-reloads for development
